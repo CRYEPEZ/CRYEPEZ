@@ -6,11 +6,11 @@ I have seven years of dedicated IT support experience (2007–2014), including W
 
 ## Selected work
 
-### [ValeGiftsUK — live website](https://www.valegifts.co.uk/)
+### [ValeGiftsUK — website project](https://www.valegifts.co.uk/)
 
-I took this personalised-gifts website from an initial idea to a published, multi-page catalogue. I defined the requirements, chose the site structure and design direction, guided implementation, reviewed the results, tested the pages and published the site using Cloudflare Pages. The site uses HTML, CSS and JavaScript, with responsive category pages and customer contact through WhatsApp.
+I created the website for ValeGiftsUK from scratch as a responsive, multi-page product catalogue. I translated the business's requirements into the site structure and design, guided implementation with OpenAI Codex, reviewed and tested the results, and deployed it using Cloudflare Pages. The project uses HTML, CSS and JavaScript, with product categories and WhatsApp contact.
 
-**How I used AI:** OpenAI Codex helped implement and refine the site under my direction. I made the product and technical decisions and checked the result. I do not claim to have written every line by hand. The production source code is not published in this GitHub account.
+**My role:** I directed and checked the website work with Codex's assistance; I do not claim to have written every line by hand. The website belongs to ValeGiftsUK. Its production source code is not published in this GitHub account.
 
 ## Background
 
@@ -18,4 +18,4 @@ I took this personalised-gifts website from an initial idea to a published, mult
 - **Programming:** Python and Java; practical HTML, CSS and JavaScript.
 - **Academic work:** My 2024 dissertation investigated hospital diabetes readmission prediction using logistic regression, random forests and SVMs. Its source code is not published here.
 
-[Explore the live ValeGiftsUK website](https://www.valegifts.co.uk/) · [View my repositories](https://github.com/CRYEPEZ?tab=repositories)
+[View the ValeGiftsUK website project](https://www.valegifts.co.uk/) · [View my repositories](https://github.com/CRYEPEZ?tab=repositories)
