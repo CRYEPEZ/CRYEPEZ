@@ -12,10 +12,6 @@ I took this personalised-gifts website from an initial idea to a published, mult
 
 **How I used AI:** OpenAI Codex helped implement and refine the site under my direction. I made the product and technical decisions and checked the result. I do not claim to have written every line by hand. The production source code is not published in this GitHub account.
 
-### [Energy efficiency analysis](https://github.com/CRYEPEZ/energy-efficiency-analysis)
-
-A reproducible Python analysis of simulated building designs, comparing simple prediction baselines for heating and cooling load. The original university repository contained the dataset and description; the executable analysis was added later as a portfolio improvement.
-
 ## Background
 
 - **IT support:** Windows, hardware troubleshooting and network fundamentals (DNS, DHCP, connectivity).
